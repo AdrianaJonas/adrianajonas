@@ -14,7 +14,7 @@ My name is Adriana. I'm a passionate developer from Brazil.</h3>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=adrianajonas&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="adrianajonas" /></p>
-![adrianajonas's Stats]()
+
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianajonas&theme=vue-dark&hide_border=false" alt="adrianajonas" /></p>
 </p>
