@@ -1,9 +1,9 @@
 ### HELLO!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 My name is Adriana. I'm a passionate developer from Brazil.</h3>
 
-- 📖 I am studying **systems development and analysis.**
+- 📖 I am studying **Computer Science.**
 
-- 🌱 I'm [re]learning **JAVA & SQL**
+- 🌱 I'm learning **JAVA**
 
 - 📫 How to reach me **adriana.jonas444@gmail.com**
 
