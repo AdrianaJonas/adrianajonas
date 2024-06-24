@@ -1,9 +1,9 @@
 ### HELLO!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-My name is Adriana. I'm a passionate frontend developer from Brazil.</h3>
+My name is Adriana. I'm a passionate developer from Brazil.</h3>
 
 - 📖 I am studying **systems development and analysis.**
 
-- 🌱 I'm [re]learning **PHP, SQL, Js**
+- 🌱 I'm [re]learning **JAVA & SQL**
 
 - 📫 How to reach me **adriana.jonas444@gmail.com**
 
